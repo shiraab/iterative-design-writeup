@@ -1,1 +1,14 @@
 /* Put your style information here! */
+
+html {
+  background-color: #AC3B61;
+  padding-left: 10vw;
+}
+
+body {
+  max-width: 80vw;
+  padding: 2vw;
+  align-items: center;
+  align-content: center;
+  background-color: #FDF5F1;
+}
