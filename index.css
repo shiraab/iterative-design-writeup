@@ -12,3 +12,19 @@ body {
   align-content: center;
   background-color: #FDF5F1;
 }
+
+tr {
+  vertical-align: top;
+}
+
+td {
+  border-top: 1px solid black;
+}
+
+table tr td:first-child, table tr th:first-child {
+  border-right: 1px solid black;
+}
+
+td, th {
+  padding: 5px;
+}
